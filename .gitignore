@@ -1,0 +1,7 @@
+*.o
+*.exe
+application_voiture.exe
+.vs/
+x64/
+Debug/
+Release/
