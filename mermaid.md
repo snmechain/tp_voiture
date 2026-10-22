@@ -24,8 +24,6 @@ erDiagram
         int commande_id PK,FK
         int produit_id PK,FK
         int quantite
-
-'''
     }
 
     %% Définition des relations
